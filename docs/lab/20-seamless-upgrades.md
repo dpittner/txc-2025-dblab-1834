@@ -12,3 +12,4 @@ By the end of this lab, you'll understand:
 1. Go to <https://ibm.biz/1834-invite>
 1. Enter the `Username` and `Password` provided for the lab.
 1. Click **Sign in**.
+
