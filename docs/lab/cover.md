@@ -1,7 +1,7 @@
 <img src="../header.jpg">
 
-> Lab Title
+> Automate major database version migrations without the headaches
 
-_Session XXXX_
+_Session 1834_
 
 [Get Started](#main)
