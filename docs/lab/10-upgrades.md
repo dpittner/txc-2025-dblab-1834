@@ -1,13 +1,13 @@
 # Upgrade aproaches
 When running PostgreSQL yourself, there are two main upgrade paths:
 
-__In-place upgrade with pg_upgrade__
+In-place upgrade with pg_upgrade
 
     Fast, minimal downtime.
 
     Requires careful orchestration.
 
-__Logical migration with pg_dump / pg_restore or replication tools__
+ogical migration with pg_dump / pg_restore or replication tools
 
     More flexible, but downtime can be longer.
 
