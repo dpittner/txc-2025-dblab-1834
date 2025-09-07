@@ -1,6 +1,6 @@
 - [🔎 Overview](README.md)
 - [🌐 Upgrade headaches](10-upgrades.md)
-- [📊 Seamless upgrades](20-seamless-upgrades.md)
+- [⚙️ Seamless upgrades](20-seamless-upgrades.md)
 - [🏁 Check Success](50-success.md)
 
 - **Learn more**

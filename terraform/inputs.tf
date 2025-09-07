@@ -1,17 +1,17 @@
 variable "region" {
-  default = "us-south"
+  default = "us-east"
 }
 
 variable "basename" {
-  default = "skeleton-1234"
+  default = "dblab-1834"
 }
 
 variable "title" {
-  default = "Lab Title"
+  default = "Automate major database version migrations without the headaches"
 }
 
 variable "tags" {
-  default = [ "skeleton-1234", "terraform" ]
+  default = [ "dblab-1834", "terraform" ]
 }
 
 variable "user_count" {
@@ -19,5 +19,5 @@ variable "user_count" {
 }
 
 variable "user_prefix" {
-  default = "sklab"
+  default = "dblab"
 }
