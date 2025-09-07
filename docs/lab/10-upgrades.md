@@ -1,4 +1,4 @@
-# 🔄 Major Approaches to MongoDB Major Version Upgrades
+# 🔄 Approaches to MongoDB Major Version Upgrades
 There are several approaches to perform a MongoDB major version upgrade, depending on your environment (replica set, sharded cluster, standalone) and your tolerance for downtime. Each has tradeoffs in risk, downtime, and complexity.
 
 

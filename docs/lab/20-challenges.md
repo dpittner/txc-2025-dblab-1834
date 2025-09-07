@@ -64,7 +64,7 @@
 
 ---
 
-# ✅ Key Takeaw
+# ✅ Key Takeaway
 
 For very large, business-critical databases, a backup alone can consume hours—sometimes longer—making it nearly impossible to fit the full upgrade into a reasonable maintenance window. Because of this, some teams are tempted to skip the backup step entirely, running the upgrade without a guaranteed way to recover if something goes wrong. 
 While that shortcut might be tolerable in a development or test environment, where data loss is inconvenient but not disastrous, it’s completely unacceptable in production. For mission-critical systems, upgrading without a recovery option is a high-risk gamble that can lead to irreversible data loss and prolonged downtime.
