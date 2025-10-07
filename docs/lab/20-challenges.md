@@ -81,4 +81,4 @@ The difference is profound. In the manual world, you’re balancing a dozen movi
 
 In IBM Cloud Databases for MongoDB, performing an in-place major version upgrade is designed to be straightforward and flexible, no matter how you interact with the service. You can trigger the upgrade directly from the IBM Cloud Console with just a few clicks, use the CLI if you prefer command-line workflows, call the API for automation, or manage it declaratively through Terraform. In Terraform, it’s literally as simple as updating the version attribute in your ibm_database resource definition—Terraform will handle the orchestration behind the scenes. This consistency across interfaces means teams can choose the workflow that best fits their operations, whether that’s manual management through the UI or fully automated infrastructure-as-code pipelines.
 
-⇨ [Let's review some actual pitfalls...](225-pitfalls.md)
+⇨ [Let's review some actual pitfalls...](25-pitfalls.md)
